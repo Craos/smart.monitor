@@ -1,0 +1,895 @@
+2019-04-02 13:19:55.8188|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:23:07.7455|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:26:23.9710|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:28:03.0422|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:50:56.9688|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:51:34.3994|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 13:51:34.4144|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 13:51:35.5441|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-02 13:56:36.0727|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 13:57:39.2464|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:22:03.3127|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:25:04.3097|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:25:32.0254|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:31:51.7805|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:33:08.2265|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:33:20.3733|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 14:33:20.3873|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 14:33:45.3986|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-02 14:34:07.7479|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 14:34:07.7539|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 14:37:23.9582|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:37:34.0627|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 14:37:34.0747|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 14:50:08.2116|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 14:50:21.8659|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 14:50:21.8829|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 14:52:45.4659|INFO|smart.monitor.Program|Conectado a porta serial:COM5
+2019-04-02 14:54:35.6233|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceRemoveComplete] FullName:USB#VID_0403&PID_6001#A602859T#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x0403
+Pid:0x6001
+SerialNumber:A602859T
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-02 14:54:35.6453|INFO|smart.monitor.Program|[DeviceType:Port] [EventType:DeviceRemoveComplete] [Port Name:COM5] 
+2019-04-02 15:02:57.3037|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceArrival] FullName:USB#VID_0403&PID_6001#A7034G4W#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x0403
+Pid:0x6001
+SerialNumber:A7034G4W
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-02 15:02:58.8547|INFO|smart.monitor.Program|[DeviceType:Port] [EventType:DeviceArrival] [Port Name:COM6] 
+2019-04-02 15:13:27.4469|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 15:13:51.3977|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:13:51.4087|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:13:52.3817|INFO|smart.monitor.Program|Conectado a porta serial:COM6
+2019-04-02 15:16:35.9177|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 15:16:48.2033|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:16:48.2033|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:16:49.0385|INFO|smart.monitor.Program|Conectado a porta serial:COM6
+2019-04-02 15:17:22.6782|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:17:22.6782|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:17:34.2198|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 15:17:45.1075|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:17:45.1165|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:18:38.0454|INFO|smart.monitor.Program|Conectado a porta serial:COM6
+2019-04-02 15:20:13.7526|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 15:20:24.5252|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:20:24.5352|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:20:25.3333|INFO|smart.monitor.Program|Conectado a porta serial:COM6
+2019-04-02 15:22:45.6537|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 15:23:03.1865|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 15:23:03.1865|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 15:23:04.0246|INFO|smart.monitor.Program|Conectado a porta serial:COM6
+2019-04-02 17:24:08.9247|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:24:26.3306|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:24:26.3463|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:24:28.8618|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:26:48.1699|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:27:13.4974|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:27:13.5130|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:27:16.3567|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:34:58.8057|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:35:37.4770|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:36:01.3984|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:36:01.4142|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:36:02.7422|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:37:59.8913|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:38:23.5734|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:38:31.7139|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:38:31.7295|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:38:33.1670|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:39:45.8748|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:40:00.1714|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:40:00.1870|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:40:01.0933|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:42:03.4822|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:42:24.9662|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:42:24.9818|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:42:27.0599|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:42:45.4658|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:42:45.4658|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:42:46.6533|INFO|smart.monitor.Program|O acesso à porta 'COM8' foi negado.
+2019-04-02 17:54:03.9226|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:54:40.3360|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:55:24.2610|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:55:24.2610|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:55:25.1204|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:55:50.0284|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:56:09.5598|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:56:09.5749|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:56:10.6374|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:57:29.9804|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:58:35.3339|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:58:55.8022|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:58:55.8022|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:58:56.5520|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 17:59:35.2466|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 17:59:58.5274|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 17:59:58.5274|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 17:59:59.4022|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:00:56.7086|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:01:06.6768|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:01:06.6768|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:01:07.5361|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:03:20.3711|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:04:08.2741|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:04:18.2582|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:04:18.2739|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:04:19.3674|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:04:40.8853|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:04:56.0722|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:04:56.0877|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:04:56.9940|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:05:26.2935|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:05:54.4165|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:05:54.4321|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:05:55.4165|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:20:16.4742|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:20:51.2876|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:20:51.3031|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:20:52.2094|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:21:11.3751|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:21:11.3751|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:21:12.2967|INFO|smart.monitor.Program|O acesso à porta 'COM8' foi negado.
+2019-04-02 18:21:55.9561|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:22:01.5326|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:22:01.5482|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:22:02.5170|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:24:21.5946|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:24:51.7986|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:28:48.3505|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:29:15.2837|INFO|smart.monitor.Program|Finalizando a conexão com a controladora através do comando do usuário
+2019-04-02 18:29:59.3966|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:31:54.7980|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:32:23.2029|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:32:23.2187|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:32:24.0934|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:33:30.5104|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:33:42.9322|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:33:42.9477|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:33:43.8714|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:33:56.4318|INFO|smart.monitor.Program|Finalizando a conexão com a controladora através do comando do usuário
+2019-04-02 18:35:07.0456|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:35:15.9977|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:35:16.0135|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:35:16.8725|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:35:23.5130|INFO|smart.monitor.Program|Finalizando a conexão com a controladora através do comando do usuário
+2019-04-02 18:37:40.9803|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:38:03.1728|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:38:13.1256|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:38:13.1412|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:38:14.0786|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:38:18.8597|INFO|smart.monitor.Program|Finalizando a conexão com a controladora através do comando do usuário
+2019-04-02 18:39:03.8951|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:39:13.9103|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:39:13.9259|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:39:14.7697|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:39:18.8165|INFO|smart.monitor.Program|Usuário não localizado|1EBC5
+2019-04-02 18:39:58.6572|INFO|smart.monitor.Program|Usuário não localizado|1EBC5
+2019-04-02 18:42:24.7765|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:42:33.8540|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:42:33.8540|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:42:34.9323|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:54:53.1616|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:55:20.5668|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-02 18:55:30.7233|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-02 18:55:30.7384|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-02 18:55:32.0664|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-02 18:55:34.9882|INFO|smart.monitor.Program|Usuário não localizado|1EBC5
+2019-04-03 08:34:26.9040|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 08:35:03.4679|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 08:35:03.4835|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 08:35:04.4224|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 08:40:58.8223|INFO|smart.monitor.Program|Usuário não localizado|798BA
+2019-04-03 08:54:37.6138|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 08:54:47.0545|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 08:54:47.0545|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 08:54:48.0946|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 08:54:51.2695|INFO|smart.monitor.Program|Usuário não localizado|79BB7
+2019-04-03 08:55:51.3151|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 08:56:04.1949|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 08:56:04.2049|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 08:56:04.9970|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 08:56:09.5945|INFO|smart.monitor.Program|Usuário não localizado|79BB7
+2019-04-03 10:58:36.7047|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 10:59:02.4492|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 10:59:06.2960|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 10:59:06.2960|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 10:59:07.1842|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:04:38.9408|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:04:44.6932|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:04:48.1080|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:04:48.1080|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:04:48.9018|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:05:41.9986|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:05:46.8547|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:05:48.6365|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:05:48.6365|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:05:49.5012|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:07:01.5556|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:07:06.0342|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:07:08.1581|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:07:08.1581|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:07:09.0791|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:10:31.0749|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:10:38.2065|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:10:40.4607|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:10:40.4607|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:10:41.4138|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:11:34.5573|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:11:40.2420|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:13:55.2689|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:14:01.3569|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:14:26.5516|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:14:32.6547|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:14:43.1585|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:14:43.1646|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:14:51.1330|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:23:18.3281|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:23:38.6210|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:23:44.1816|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:23:44.1855|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:23:44.9596|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:24:42.8525|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:24:53.2202|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:24:56.8513|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:24:56.8513|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:24:57.7973|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:28:31.1702|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:28:40.9992|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:28:49.5171|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:28:49.5211|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:28:50.4432|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 11:29:35.6456|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:30:37.6007|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:33:18.9201|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 11:33:28.2137|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 11:33:30.8411|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 11:33:30.8411|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 11:33:31.7873|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 12:21:10.2589|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:21:33.3268|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:22:15.5262|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 12:22:19.4735|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 12:22:19.4735|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 12:22:19.8545|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-03 12:23:18.4132|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:24:04.1292|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 12:24:05.6043|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 12:24:05.6043|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 12:24:05.9124|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-03 12:26:34.1627|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:26:43.2463|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 12:26:46.2625|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 12:26:46.2625|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 12:26:47.0385|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 12:29:16.9443|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:29:23.7446|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 12:29:26.8980|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 12:29:26.9028|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 12:29:27.9480|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 12:31:54.0035|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 12:32:01.6190|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 12:32:03.7681|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 12:32:03.7681|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 12:32:04.7831|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:06:33.3307|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:06:52.6834|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:06:57.2874|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:06:57.2934|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:06:58.1404|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:07:56.2080|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:08:06.8584|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:08:10.1175|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:08:10.1175|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:08:10.9177|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:14:01.0774|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:14:20.8959|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:14:23.2546|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:14:23.2626|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:14:24.2237|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:21:58.9675|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:22:12.5061|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:22:14.9393|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:22:14.9393|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:22:15.7721|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:22:20.5441|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 O Registro não foi localizado 
+2019-04-03 13:23:38.4754|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 O Registro não foi localizado 
+2019-04-03 13:26:31.0151|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:26:43.9845|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:26:48.0336|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:26:48.0397|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:26:48.9077|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:27:58.1580|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:28:18.7885|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:28:22.6296|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:28:22.6296|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:28:23.8717|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:29:32.2737|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:29:51.1852|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:29:56.3134|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:29:56.3134|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:29:57.0964|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:37:13.2438|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:37:22.6152|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:37:25.2782|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:37:25.2782|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:37:26.4143|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 13:42:15.0655|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 13:42:30.9485|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 13:42:33.3057|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 13:42:33.3086|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 13:42:34.2067|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 14:05:25.7978|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 14:05:52.0502|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 14:05:55.9421|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 14:05:55.9421|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 14:05:56.8018|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 14:40:29.5099|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 14:40:50.1163|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 14:40:54.2275|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 14:40:54.2275|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 14:40:55.1267|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 14:41:00.9027|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 14:45:54.8226|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 14:46:24.9918|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 14:46:38.5903|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 14:46:38.5942|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 14:46:39.5283|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 14:46:52.1586|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 14:47:11.3617|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 14:47:43.8994|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 14:48:12.9250|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 14:58:20.8804|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 14:59:04.2759|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 14:59:05.5900|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 14:59:05.5900|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 14:59:06.4811|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 15:00:52.2281|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:01:23.4009|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 15:01:25.4696|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 15:01:25.4756|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 15:01:26.6496|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 15:09:06.5795|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:09:41.8136|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 15:09:44.7518|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 15:09:44.7518|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 15:09:45.6457|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 15:10:18.5517|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 15:10:33.6992|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 15:10:40.2771|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 15:10:48.5410|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-03 15:17:09.7521|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:17:26.9069|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 15:18:21.2931|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:18:41.8787|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-03 15:18:44.5557|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-03 15:18:44.5557|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-03 15:18:45.3797|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-03 15:19:50.7136|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:21:27.7880|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:24:09.9065|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 15:24:27.6049|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceRemoveComplete] FullName:USB#VID_0403&PID_6001#A7B7E4JP#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x0403
+Pid:0x6001
+SerialNumber:A7B7E4JP
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-03 15:24:52.9357|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceArrival] FullName:USB#VID_8644&PID_8003#8F680000000001E1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x8644
+Pid:0x8003
+SerialNumber:8F680000000001E1
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-03 15:24:54.8547|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceRemoveComplete] FullName:USB#VID_8644&PID_8003#8F680000000001E1#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x8644
+Pid:0x8003
+SerialNumber:8F680000000001E1
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-03 19:11:26.5412|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 19:13:16.4896|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 19:15:11.5273|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 19:24:57.3191|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-03 19:28:49.8117|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 06:32:33.5568|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 06:34:14.9385|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 07:25:21.8133|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 07:28:59.7349|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 07:31:05.1347|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-04 07:47:59.2150|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:56:03.4189|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:56:19.6907|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:56:38.2123|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:56:43.6057|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 08:56:46.7855|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 08:56:46.7855|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 08:56:48.2687|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 08:59:00.8792|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:59:13.4327|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 08:59:15.8955|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 08:59:15.8955|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 08:59:16.9123|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 08:59:21.6526|INFO|smart.monitor.Program|[DeviceType:DeviceInterface] [EventType:DeviceRemoveComplete] FullName:USB#VID_0403&PID_6001#A7B7E4JP#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+Vid:0x0403
+Pid:0x6001
+SerialNumber:A7B7E4JP
+ClassGuid:a5dcbf10-6530-11d2-901f-00c04fb951ed
+
+2019-04-05 08:59:21.6916|INFO|smart.monitor.Program|[DeviceType:Port] [EventType:DeviceRemoveComplete] [Port Name:COM8] 
+2019-04-05 08:59:40.6780|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 08:59:52.6961|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 08:59:55.5366|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 08:59:55.5366|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 08:59:56.4901|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:03:38.1806|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:03:45.4427|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:03:56.4093|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:03:56.4153|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:03:56.8768|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-05 09:06:47.4319|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:06:56.1928|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:06:57.7556|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:06:57.7615|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:06:58.1039|INFO|smart.monitor.Program|A Controladora de acesso não foi localizada na porta serial
+2019-04-05 09:07:10.1423|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:07:10.1473|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:07:11.0863|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:07:54.7534|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:08:01.5862|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:08:03.1252|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:08:03.1312|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:08:04.1554|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:08:39.7445|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:08:52.9024|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:08:59.9342|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:08:59.9342|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:09:02.7942|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:16:12.5614|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:16:19.2012|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:16:21.0708|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:16:21.0708|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:18:08.4647|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:18:13.9808|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:18:15.3982|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:18:15.4041|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:21:13.2386|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:21:40.9702|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:21:42.5483|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:21:42.5542|INFO|smart.monitor.Program|Detectando o hardware
+2019-04-05 09:35:55.1953|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:36:07.2942|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:36:09.3904|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:36:09.3904|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:36:10.0198|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:46:11.9226|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:46:26.8432|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:46:29.0186|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:46:29.0186|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:46:29.4497|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:47:29.0824|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:47:48.3044|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:47:49.9129|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:47:49.9129|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:47:50.5296|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:51:58.4334|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:52:05.5258|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:52:06.9995|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:52:06.9995|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:52:07.5997|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:53:07.5475|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:53:13.6093|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:53:14.8539|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:53:14.8539|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:53:15.3621|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:53:46.6539|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:53:51.3863|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:53:52.7138|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:53:52.7138|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:53:53.4131|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:54:11.6110|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:54:27.1408|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:55:26.2405|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:55:31.1010|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:55:32.6911|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:55:32.6911|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:55:33.3714|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:55:35.5494|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:55:56.5470|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:56:03.1228|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:56:04.6804|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:56:04.6864|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:56:05.2759|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:56:09.3497|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:57:12.7713|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:57:19.8858|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:57:21.4801|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:57:21.4801|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:57:21.9488|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:57:28.3307|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:58:23.4939|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 09:58:27.5415|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 09:58:28.9381|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 09:58:28.9381|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 09:58:29.5559|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 09:58:32.5791|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:58:38.4465|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 09:58:43.7953|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:16:35.6960|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:16:48.8430|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:16:52.8176|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:16:52.8236|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:16:53.2826|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:18:06.0737|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:18:17.7150|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:18:19.6291|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:18:19.6291|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:18:20.3511|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-05 10:18:29.6416|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:18:29.6456|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:18:31.9486|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:18:45.3964|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:23:20.9065|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:23:29.2226|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:23:31.0679|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:23:31.0679|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:23:31.6791|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:23:34.2867|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:26:49.8618|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:26:56.5196|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:26:59.1384|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:26:59.1384|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:26:59.5685|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:27:04.5148|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:29:08.0940|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:29:15.6714|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:29:18.3348|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:29:18.3348|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:29:18.8075|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:29:24.6103|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:33:50.5733|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:33:57.2250|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:34:00.1129|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:34:00.1129|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:34:00.6299|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:34:07.8556|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:35:47.2740|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:37:10.6659|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:38:05.5486|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:38:10.2573|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:38:11.1633|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:40:13.8243|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:40:27.4897|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:40:28.2959|INFO|smart.monitor.Program|Hardware FTDIBUS detectado na porta COM8
+2019-04-05 10:40:28.3699|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:40:35.4451|INFO|smart.monitor.Program|O equipamento de controle de acesso foi desconectado da porta USB
+2019-04-05 10:43:23.9645|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:43:33.4131|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:43:34.0022|INFO|smart.monitor.Program|Hardware FTDIBUS detectado na porta COM8
+2019-04-05 10:43:34.1282|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:43:48.5152|INFO|smart.monitor.Program|O equipamento  FTDIBUS foi desconectado da porta COM8
+2019-04-05 10:43:58.1852|INFO|smart.monitor.Program|O equipamento FTDIBUS foi localizado
+porém não foi possível determinar se ele está utilizando a mesma porta de conexão
+2019-04-05 10:46:16.8813|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:46:22.7807|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:46:23.5674|INFO|smart.monitor.Program|Hardware FTDIBUS detectado na porta COM8
+2019-04-05 10:46:23.7093|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:46:26.3739|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:46:26.4088|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:46:32.3266|INFO|smart.monitor.Program|O equipamento  FTDIBUS foi desconectado da porta COM8
+2019-04-05 10:46:37.1046|INFO|smart.monitor.Program|O equipamento FTDIBUS foi localizado
+porém não foi possível determinar se ele ainda está utilizando a mesma porta de conexão
+2019-04-05 10:50:26.9339|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:50:34.6067|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:50:35.4475|INFO|smart.monitor.Program|Hardware FTDIBUS detectado na porta COM8
+2019-04-05 10:50:35.5315|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 10:50:47.9712|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 10:50:48.0161|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 10:52:19.7448|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 10:52:25.5490|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 10:52:26.2155|INFO|smart.monitor.Program|Hardware FTDIBUS detectado na porta COM8
+2019-04-05 10:52:26.2875|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 11:04:55.7725|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 11:05:01.7124|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 11:05:03.6741|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 11:05:03.7470|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 11:05:10.1509|INFO|smart.monitor.Program|O equipamento  Craos FTDIBUS foi desconectado da porta COM8
+2019-04-05 11:05:16.1614|INFO|smart.monitor.Program|O equipamento Craos FTDIBUS foi localizado
+porém não foi possível determinar se ele ainda está utilizando a mesma porta de conexão
+2019-04-05 11:05:19.8013|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 11:05:20.3772|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 11:07:25.6285|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 11:08:04.6610|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 11:08:05.1790|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 11:08:05.2420|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 11:08:08.1240|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 11:08:08.1640|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 11:08:14.9709|INFO|smart.monitor.Program|O equipamento  Craos FTDIBUS foi desconectado da porta COM8
+2019-04-05 11:08:23.7292|INFO|smart.monitor.Program|O equipamento Craos FTDIBUS foi localizado
+porém não foi possível determinar se ele ainda está utilizando a mesma porta de conexão
+2019-04-05 11:13:24.7596|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 11:13:37.5705|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 11:13:38.6894|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 11:13:38.7685|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 11:13:47.7633|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 11:13:47.8305|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 11:13:54.0400|INFO|smart.monitor.Program|O equipamento  Craos FTDIBUS foi desconectado da porta COM8
+2019-04-05 11:14:01.3648|INFO|smart.monitor.Program|O equipamento Craos FTDIBUS foi localizado
+porém não foi possível determinar se ele ainda está utilizando a mesma porta de conexão
+2019-04-05 11:14:03.9124|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 11:14:05.5726|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 11:31:29.6051|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 11:31:29.7111|INFO|smart.monitor.Program|A porta já está aberta.
+2019-04-05 14:46:22.4802|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 14:48:06.3580|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 14:50:55.0122|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 14:52:03.6269|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 14:55:42.1021|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 14:57:26.6221|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:00:20.0836|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:02:14.2495|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:02:45.8780|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:02:53.3055|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-05 15:03:48.0620|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:03:48.4990|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-05 15:04:16.3666|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:04:16.7686|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:04:16.8086|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:04:23.8059|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:04:23.8489|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:07:27.5937|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:07:34.5020|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:07:35.1010|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:07:35.1730|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:07:36.2592|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:07:36.2910|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:09:29.7800|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:09:34.8932|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:09:35.7113|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:09:35.8293|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:09:37.1293|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:09:37.1653|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:11:28.5353|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:11:34.0025|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:11:34.6766|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:11:34.7495|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:11:36.0546|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:11:36.0916|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:11:59.5157|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 O Registro não foi localizado 
+2019-04-05 15:13:09.0838|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 O Registro não foi localizado 
+2019-04-05 15:19:40.1188|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:19:51.2350|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:19:51.8120|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:19:51.8902|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:20:04.1896|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:20:18.8696|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:20:19.7316|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:20:19.8456|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:20:21.7356|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:20:21.7867|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:22:02.0845|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:22:16.9471|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:22:17.6791|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:22:17.7611|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:22:22.7622|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:22:22.8242|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:24:02.5028|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-05 15:24:08.9191|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-05 15:24:09.7091|INFO|smart.monitor.Program|Hardware Craos FTDIBUS detectado na porta COM8
+2019-04-05 15:24:09.8171|INFO|smart.monitor.Program|Usando a pesquisa na base remota
+2019-04-05 15:24:11.7612|INFO|smart.monitor.Program|Inciando tentativa de conexão com a controladora
+2019-04-05 15:24:11.8462|INFO|smart.monitor.Program|Conectado a porta serial:COM8
+2019-04-05 15:26:38.3568|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-05 15:26:56.6126|INFO|smart.monitor.Program|Leitora: 1 Leitor RFID - Serial:1EBC5 (11-100) Oberdan 
+2019-04-05 15:35:42.6694|INFO|smart.monitor.Program|O equipamento  Craos FTDIBUS foi desconectado da porta COM8
+2019-04-06 20:47:10.1603|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-06 20:47:24.7464|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-06 20:47:25.7782|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-06 20:49:12.5661|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-06 20:49:32.0566|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-06 20:49:32.7284|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-06 20:49:50.7023|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-06 20:50:02.4906|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-06 20:50:03.2204|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-06 21:23:27.1572|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-06 21:23:41.5216|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-06 21:23:42.1305|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-06 21:25:59.2641|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-06 21:26:15.4184|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-06 21:26:16.1702|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-09 13:35:50.4900|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-09 13:36:09.0826|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-09 13:36:09.9106|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-09 14:33:39.3284|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-09 14:33:47.8239|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-09 14:33:48.3708|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-10 11:10:48.9672|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:18:04.9712|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:24:41.8736|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:27:55.6002|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:29:38.0031|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:29:49.4263|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:33:59.7625|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:38:04.9234|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:43:39.2132|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 14:45:45.1690|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 15:58:41.0186|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 15:59:37.5039|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 16:00:35.5175|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 16:00:56.1787|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 16:03:57.4465|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 16:04:51.5720|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:22:15.2074|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:23:49.7829|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:25:33.2086|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:26:46.4706|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:32:40.5677|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:33:27.8347|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:34:22.5255|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:34:38.6110|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:36:44.3051|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:39:46.6019|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:41:57.2624|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:43:39.5513|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:46:52.5204|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:52:28.6575|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:53:33.1833|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:56:43.9725|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 17:57:33.4308|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-10 18:20:24.4911|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 10:16:50.6734|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 10:22:44.5027|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 10:24:29.4650|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 10:27:44.9774|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 10:29:58.9793|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 13:38:30.0537|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 13:42:31.9503|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 14:05:01.9372|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 14:06:12.5016|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 14:07:42.8685|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 14:08:57.8482|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-11 14:09:43.7725|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-11 14:09:46.1251|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-11 14:10:57.7233|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-11 14:10:58.2052|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-12 10:02:19.2711|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 10:05:48.5092|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 10:46:04.7683|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:09:41.8863|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:10:57.9030|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:18:30.4085|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:21:28.4657|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:23:19.7109|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 11:25:03.2951|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 13:26:12.2479|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 13:29:09.1492|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:40:50.5496|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:43:46.8247|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:46:42.1162|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:50:21.3502|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:50:34.4871|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:51:40.7794|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:55:33.4670|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:58:00.2237|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 14:58:43.7253|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 15:46:59.2147|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 15:47:11.8629|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 16:00:16.0719|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 16:15:31.4643|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 16:20:08.7306|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 17:22:04.2669|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 17:23:19.4237|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 17:26:46.3766|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:18:39.6559|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:23:43.4944|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:28:37.8563|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:30:29.3480|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:52:45.3170|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-12 19:55:01.5091|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 16:34:18.0881|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 16:51:22.9575|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 16:55:57.0544|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:08:17.5069|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:10:07.4768|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:21:47.6209|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:23:32.3880|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:26:51.7750|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:35:04.6264|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:37:23.3509|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:39:25.6123|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:49:08.0594|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:54:33.2106|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:56:47.9379|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:57:35.8563|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-13 17:58:36.4428|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:33:36.4160|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:36:17.2542|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:39:50.9841|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-14 14:55:59.5064|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-14 14:57:59.6116|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-14 15:02:12.2632|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:49:27.9128|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:51:20.2736|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:53:14.5519|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:54:54.4527|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 08:59:38.5583|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:01:08.6282|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:04:44.1932|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:09:27.2976|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:10:45.2231|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:12:47.1855|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:14:38.2832|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:28:44.0162|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:28:56.6192|INFO|smart.monitor.Program|Detectando o hardware USB
+2019-04-15 09:28:58.0733|INFO|smart.monitor.Program|Nenhuma controladora foi localizada na porta USB
+2019-04-15 09:29:18.9589|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:32:02.6330|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:39:15.2500|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 09:59:59.3388|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 10:30:12.6978|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 10:30:53.3774|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 10:35:15.3873|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 10:35:35.2702|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 10:36:07.0337|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 11:38:48.3782|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 11:40:20.1703|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 11:56:12.0931|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:15:45.7893|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:17:25.4572|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:18:27.9445|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:21:13.4446|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:22:05.2873|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:23:55.0575|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:36:50.7192|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 12:37:53.3380|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:00:06.5271|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:01:23.4102|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:02:57.9209|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:04:42.0358|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:06:48.8291|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:11:06.8942|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:11:56.8836|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 13:14:52.7596|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:13:34.0168|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:14:34.6028|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:15:18.6108|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:21:08.3840|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:22:12.1501|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:24:06.7422|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:32:24.6259|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:34:49.5622|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:35:19.1262|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:36:29.2155|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:40:49.4648|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:46:50.2314|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:49:13.0156|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:51:36.0625|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:56:39.7518|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 16:58:04.4819|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:08:25.3900|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:09:02.5755|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:35:27.2044|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:36:33.6371|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:37:49.1364|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:41:29.8384|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:43:22.6980|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:47:22.5223|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:51:48.3059|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:53:23.3737|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 17:56:35.8770|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:08:32.1669|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:15:11.6216|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:17:05.6509|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:18:41.9954|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:27:20.4417|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:33:43.1436|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:36:02.3702|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:38:49.0223|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:39:27.9852|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:48:52.0766|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:52:55.0045|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 18:55:23.4988|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 19:03:04.4272|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 19:10:39.8715|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor
+2019-04-15 19:12:19.1465|INFO|smart.monitor.Program|Iniciando o sistema Smart Monitor

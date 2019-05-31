@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="anima">
+  <database-model serializer="dbm" rdbms="POSTGRES" format-version="4.9">
+    <root id="1">
+      <ServerVersion>9.4.9</ServerVersion>
+    </root>
+    <database id="2" parent="1" name="ctrldesk">
+      <ObjectId>798803</ObjectId>
+    </database>
+    <database id="3" parent="1" name="expurgo">
+      <ObjectId>666491</ObjectId>
+    </database>
+    <database id="4" parent="1" name="postgres">
+      <ObjectId>12747</ObjectId>
+      <Comment>default administrative connection database</Comment>
+    </database>
+    <database id="5" parent="1" name="smt">
+      <ObjectId>53058</ObjectId>
+      <IntrospectionStateNumber>5340811</IntrospectionStateNumber>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </database>
+    <database id="6" parent="1" name="xcs">
+      <ObjectId>785196</ObjectId>
+    </database>
+    <role id="7" parent="1" name="auth_get">
+      <ObjectId>784795</ObjectId>
+      <Inherit>1</Inherit>
+      <CanLogin>1</CanLogin>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="8" parent="1" name="auth_recovery">
+      <ObjectId>784796</ObjectId>
+      <Inherit>1</Inherit>
+      <CanLogin>1</CanLogin>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="9" parent="1" name="comum">
+      <ObjectId>784797</ObjectId>
+      <Inherit>1</Inherit>
+      <CanLogin>1</CanLogin>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="10" parent="1" name="controladora">
+      <ObjectId>249449</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="11" parent="1" name="oberdan">
+      <ObjectId>249445</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+      <ValidUntil>infinity</ValidUntil>
+    </role>
+    <role id="12" parent="1" name="oberdan@craos.net">
+      <ObjectId>784798</ObjectId>
+      <Inherit>1</Inherit>
+      <CanLogin>1</CanLogin>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="13" parent="1" name="p1">
+      <ObjectId>249446</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="14" parent="1" name="p2">
+      <ObjectId>249447</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="15" parent="1" name="p3">
+      <ObjectId>249448</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="16" parent="1" name="p4">
+      <ObjectId>249451</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="17" parent="1" name="postgres">
+      <ObjectId>10</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <role id="18" parent="1" name="smart_supervisor">
+      <ObjectId>249444</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+      <ValidUntil>infinity</ValidUntil>
+    </role>
+    <role id="19" parent="1" name="smart_web">
+      <ObjectId>249443</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+      <ValidUntil>infinity</ValidUntil>
+    </role>
+    <role id="20" parent="1" name="supervisor">
+      <ObjectId>249450</ObjectId>
+      <SuperRole>1</SuperRole>
+      <Inherit>1</Inherit>
+      <CreateRole>1</CreateRole>
+      <CreateDb>1</CreateDb>
+      <CanLogin>1</CanLogin>
+      <Replication>1</Replication>
+      <ConnectionLimit>-1</ConnectionLimit>
+    </role>
+    <schema id="21" parent="5" name="_edb_replicator_pub">
+      <ObjectId>1324701</ObjectId>
+    </schema>
+    <schema id="22" parent="5" name="_edb_replicator_sub">
+      <ObjectId>1325131</ObjectId>
+    </schema>
+    <schema id="23" parent="5" name="_edb_scheduler">
+      <ObjectId>1325008</ObjectId>
+    </schema>
+    <schema id="24" parent="5" name="acesso">
+      <ObjectId>53059</ObjectId>
+    </schema>
+    <schema id="25" parent="5" name="condominio">
+      <ObjectId>53061</ObjectId>
+    </schema>
+    <schema id="26" parent="5" name="config">
+      <ObjectId>53062</ObjectId>
+    </schema>
+    <schema id="27" parent="5" name="controldesk">
+      <ObjectId>589757</ObjectId>
+    </schema>
+    <schema id="28" parent="5" name="correios">
+      <ObjectId>478430</ObjectId>
+    </schema>
+    <schema id="29" parent="5" name="equipamento">
+      <ObjectId>593122</ObjectId>
+      <IntrospectionTimestamp>2019-02-10.16:10:42.317</IntrospectionTimestamp>
+      <IntrospectionStateNumber>31101312</IntrospectionStateNumber>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="30" parent="5" name="espacos">
+      <ObjectId>1189185</ObjectId>
+    </schema>
+    <schema id="31" parent="5" name="estacionamentos">
+      <ObjectId>53064</ObjectId>
+    </schema>
+    <schema id="32" parent="5" name="expurgo">
+      <ObjectId>53065</ObjectId>
+    </schema>
+    <schema id="33" parent="5" name="gmi">
+      <ObjectId>1152762</ObjectId>
+    </schema>
+    <schema id="34" parent="5" name="information_schema">
+      <ObjectId>12197</ObjectId>
+    </schema>
+    <schema id="35" parent="5" name="inventario">
+      <ObjectId>1177769</ObjectId>
+    </schema>
+    <schema id="36" parent="5" name="notificacoes">
+      <ObjectId>926574</ObjectId>
+    </schema>
+    <schema id="37" parent="5" name="pg_catalog">
+      <ObjectId>11</ObjectId>
+      <Comment>system catalog schema</Comment>
+    </schema>
+    <schema id="38" parent="5" name="pg_temp_1">
+      <ObjectId>11320</ObjectId>
+    </schema>
+    <schema id="39" parent="5" name="pg_temp_10">
+      <ObjectId>616644</ObjectId>
+    </schema>
+    <schema id="40" parent="5" name="pg_temp_6">
+      <ObjectId>766334</ObjectId>
+    </schema>
+    <schema id="41" parent="5" name="pg_toast">
+      <ObjectId>99</ObjectId>
+      <Comment>reserved schema for TOAST tables</Comment>
+    </schema>
+    <schema id="42" parent="5" name="pg_toast_temp_1">
+      <ObjectId>11321</ObjectId>
+    </schema>
+    <schema id="43" parent="5" name="pg_toast_temp_10">
+      <ObjectId>616645</ObjectId>
+    </schema>
+    <schema id="44" parent="5" name="pg_toast_temp_6">
+      <ObjectId>766335</ObjectId>
+    </schema>
+    <schema id="45" parent="5" name="portal">
+      <ObjectId>53066</ObjectId>
+    </schema>
+    <schema id="46" parent="5" name="portaria">
+      <ObjectId>53067</ObjectId>
+    </schema>
+    <schema id="47" parent="5" name="public">
+      <ObjectId>2200</ObjectId>
+      <Comment>standard public schema</Comment>
+      <Current>1</Current>
+    </schema>
+    <schema id="48" parent="5" name="relatorio">
+      <ObjectId>652254</ObjectId>
+    </schema>
+    <schema id="49" parent="5" name="supervisor">
+      <ObjectId>560427</ObjectId>
+    </schema>
+    <schema id="50" parent="5" name="triagem">
+      <ObjectId>585502</ObjectId>
+    </schema>
+    <schema id="51" parent="5" name="visitante">
+      <ObjectId>53070</ObjectId>
+    </schema>
+    <foreign-data-wrapper id="52" parent="5" name="dblink_fdw">
+      <ObjectId>53124</ObjectId>
+      <Validator>dblink_fdw_validator</Validator>
+      <ValidatorSchema>public</ValidatorSchema>
+    </foreign-data-wrapper>
+    <access-method id="53" parent="5" name="btree">
+      <ObjectId>403</ObjectId>
+      <Comment>b-tree index access method</Comment>
+    </access-method>
+    <access-method id="54" parent="5" name="hash">
+      <ObjectId>405</ObjectId>
+      <Comment>hash index access method</Comment>
+    </access-method>
+    <access-method id="55" parent="5" name="gist">
+      <ObjectId>783</ObjectId>
+      <Comment>GiST index access method</Comment>
+    </access-method>
+    <access-method id="56" parent="5" name="gin">
+      <ObjectId>2742</ObjectId>
+      <Comment>GIN index access method</Comment>
+    </access-method>
+    <access-method id="57" parent="5" name="spgist">
+      <ObjectId>4000</ObjectId>
+      <Comment>SP-GiST index access method</Comment>
+    </access-method>
+    <sequence id="58" parent="29" name="acionador_num_seq">
+      <ObjectId>593138</ObjectId>
+      <StateNumber>21759162</StateNumber>
+      <SequenceIdentity>1</SequenceIdentity>
+      <CacheSize>1</CacheSize>
+    </sequence>
+    <sequence id="59" parent="29" name="chave_leitores">
+      <ObjectId>1323667</ObjectId>
+      <StateNumber>31077610</StateNumber>
+      <SequenceIdentity>1</SequenceIdentity>
+      <Cycled>1</Cycled>
+      <CacheSize>1</CacheSize>
+    </sequence>
+    <sequence id="60" parent="29" name="controladora_num_seq">
+      <ObjectId>593159</ObjectId>
+      <StateNumber>21759168</StateNumber>
+      <SequenceIdentity>1</SequenceIdentity>
+      <CacheSize>1</CacheSize>
+    </sequence>
+    <table id="61" parent="29" name="acionador">
+      <ObjectId>593131</ObjectId>
+      <StateNumber>23006486</StateNumber>
+    </table>
+    <table id="62" parent="29" name="controladora">
+      <ObjectId>593150</ObjectId>
+      <StateNumber>30668784</StateNumber>
+    </table>
+    <table id="63" parent="29" name="leitor">
+      <ObjectId>593161</ObjectId>
+      <StateNumber>31098650</StateNumber>
+    </table>
+    <view id="64" parent="29" name="lista">
+      <ObjectId>593168</ObjectId>
+      <StateNumber>21759172</StateNumber>
+    </view>
+    <view id="65" parent="29" name="usuario_info">
+      <ObjectId>593172</ObjectId>
+      <StateNumber>21759173</StateNumber>
+    </view>
+    <view id="66" parent="29" name="usuario_lista">
+      <ObjectId>593177</ObjectId>
+      <StateNumber>21759174</StateNumber>
+    </view>
+    <view id="67" parent="29" name="veiculo_info">
+      <ObjectId>593182</ObjectId>
+      <StateNumber>21759175</StateNumber>
+    </view>
+    <routine id="68" parent="29" name="analise_rfid">
+      <ObjectId>593123</ObjectId>
+      <StateNumber>21759153</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ArgumentsDefinition>info json</ArgumentsDefinition>
+      <ResultsDefinition>character varying</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <Cost>100.0</Cost>
+    </routine>
+    <routine id="69" parent="29" name="analise_tag">
+      <ObjectId>593124</ObjectId>
+      <StateNumber>21819056</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ArgumentsDefinition>info json</ArgumentsDefinition>
+      <ResultsDefinition>character varying</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <Cost>100.0</Cost>
+    </routine>
+    <routine id="70" parent="29" name="info">
+      <ObjectId>593125</ObjectId>
+      <StateNumber>31101307</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ResultsDefinition>SETOF record</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <ReturnsSet>1</ReturnsSet>
+      <Cost>100.0</Cost>
+      <Rows>1000.0</Rows>
+    </routine>
+    <routine id="71" parent="29" name="info">
+      <ObjectId>593126</ObjectId>
+      <StateNumber>31098692</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ArgumentsDefinition>numcontroladora integer</ArgumentsDefinition>
+      <ResultsDefinition>SETOF json</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <ReturnsSet>1</ReturnsSet>
+      <Cost>100.0</Cost>
+      <Rows>1000.0</Rows>
+    </routine>
+    <routine id="72" parent="29" name="info">
+      <ObjectId>593127</ObjectId>
+      <StateNumber>31101312</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ArgumentsDefinition>info json</ArgumentsDefinition>
+      <ResultsDefinition>SETOF json</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <ReturnsSet>1</ReturnsSet>
+      <Cost>100.0</Cost>
+      <Rows>1000.0</Rows>
+    </routine>
+    <routine id="73" parent="29" name="lista">
+      <ObjectId>593128</ObjectId>
+      <StateNumber>21759158</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ResultsDefinition>character varying</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <Cost>100.0</Cost>
+    </routine>
+    <routine id="74" parent="29" name="listaaudioserver">
+      <ObjectId>593129</ObjectId>
+      <StateNumber>21759159</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ResultsDefinition>character varying</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <Cost>100.0</Cost>
+    </routine>
+    <routine id="75" parent="29" name="listaweb">
+      <ObjectId>593130</ObjectId>
+      <StateNumber>21818205</StateNumber>
+      <VolatilityKind>volatile</VolatilityKind>
+      <ResultsDefinition>SETOF record</ResultsDefinition>
+      <LanguageName>plpgsql</LanguageName>
+      <RoutineKind>function</RoutineKind>
+      <ReturnsSet>1</ReturnsSet>
+      <Cost>100.0</Cost>
+      <Rows>1000.0</Rows>
+    </routine>
+    <column id="76" parent="61" name="filedate">
+      <Position>1</Position>
+      <DataType>timestamp|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <DefaultExpression>now()</DefaultExpression>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="77" parent="61" name="num">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759176</StateNumber>
+      <DefaultExpression>nextval(&apos;acionador_num_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>equipamento.acionador_num_seq</SequenceName>
+    </column>
+    <column id="78" parent="61" name="controladora">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="79" parent="61" name="leitor">
+      <Position>4</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="80" parent="61" name="descricao">
+      <Position>5</Position>
+      <DataType>varchar|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="81" parent="61" name="endereco">
+      <Position>6</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="82" parent="61" name="tipo">
+      <Position>7</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759161</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <index id="83" parent="61" name="primarykey_equipamento_acionador">
+      <ObjectId>593190</ObjectId>
+      <ColNames>controladora
+leitor
+num</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="84" parent="61" name="primarykey_equipamento_acionador">
+      <ObjectId>593191</ObjectId>
+      <ColNames>controladora
+leitor
+num</ColNames>
+      <UnderlyingIndexName>primarykey_equipamento_acionador</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="85" parent="61" name="foreignkey_leitor_acionador">
+      <ObjectId>593203</ObjectId>
+      <ColNames>controladora
+leitor</ColNames>
+      <RefTableId>593161</RefTableId>
+      <RefColPositions>3,2</RefColPositions>
+      <RefTableName>leitor</RefTableName>
+      <RefKeyName>primarykey_equipamento_leitor</RefKeyName>
+      <RefColNames>controladora
+num</RefColNames>
+      <OnDelete>cascade</OnDelete>
+      <OnUpdate>cascade</OnUpdate>
+    </foreign-key>
+    <column id="86" parent="62" name="filedate">
+      <Position>1</Position>
+      <DataType>timestamp|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <DefaultExpression>now()</DefaultExpression>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="87" parent="62" name="condominio">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="88" parent="62" name="num">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759178</StateNumber>
+      <DefaultExpression>nextval(&apos;controladora_num_seq&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+      <SequenceName>equipamento.controladora_num_seq</SequenceName>
+    </column>
+    <column id="89" parent="62" name="descricao">
+      <Position>4</Position>
+      <DataType>varchar|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="90" parent="62" name="tipo_conexao">
+      <Position>5</Position>
+      <DataType>varchar|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="91" parent="62" name="endereco">
+      <Position>6</Position>
+      <DataType>varchar|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="92" parent="62" name="porta">
+      <Position>7</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759167</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="93" parent="62" name="habilitado">
+      <Position>8</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <DefaultExpression>1</DefaultExpression>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="94" parent="62" name="tempo_reconexao">
+      <Position>9</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759167</StateNumber>
+      <DefaultExpression>120</DefaultExpression>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="95" parent="62" name="fabricante">
+      <Position>10</Position>
+      <DataType>varchar(255)|0s</DataType>
+      <StateNumber>30668784</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <index id="96" parent="62" name="primarykey_equipamento_controladora">
+      <ObjectId>593194</ObjectId>
+      <ColNames>num</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="97" parent="62" name="primarykey_equipamento_controladora">
+      <ObjectId>593195</ObjectId>
+      <ColNames>num</ColNames>
+      <UnderlyingIndexName>primarykey_equipamento_controladora</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="98" parent="63" name="filedate">
+      <Position>1</Position>
+      <DataType>timestamp|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759170</StateNumber>
+      <DefaultExpression>now()</DefaultExpression>
+      <TypeId>1114</TypeId>
+    </column>
+    <column id="99" parent="63" name="num">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>31077654</StateNumber>
+      <DefaultExpression>nextval(&apos;equipamento.chave_leitores&apos;::regclass)</DefaultExpression>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="100" parent="63" name="controladora">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759170</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="101" parent="63" name="descricao">
+      <Position>4</Position>
+      <DataType>varchar|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759170</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="102" parent="63" name="porta">
+      <Position>5</Position>
+      <DataType>integer|0s</DataType>
+      <NotNull>1</NotNull>
+      <StateNumber>21759170</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <column id="103" parent="63" name="procedimento">
+      <Position>6</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759170</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="104" parent="63" name="tipo">
+      <Position>7</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759170</StateNumber>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="105" parent="63" name="sentido">
+      <Position>8</Position>
+      <DataType>varchar(1)|0s</DataType>
+      <StateNumber>21818130</StateNumber>
+      <DefaultExpression>&apos;E&apos;::character varying</DefaultExpression>
+      <TypeId>1043</TypeId>
+    </column>
+    <column id="106" parent="63" name="idade_minima">
+      <Position>9</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>31098650</StateNumber>
+      <TypeId>23</TypeId>
+    </column>
+    <index id="107" parent="63" name="primarykey_equipamento_leitor">
+      <ObjectId>593196</ObjectId>
+      <ColNames>controladora
+num</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="108" parent="63" name="primarykey_equipamento_leitor">
+      <ObjectId>593197</ObjectId>
+      <ColNames>controladora
+num</ColNames>
+      <UnderlyingIndexName>primarykey_equipamento_leitor</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="109" parent="63" name="foreignkey_equipamento_controladora_leitor">
+      <ObjectId>593198</ObjectId>
+      <ColNames>controladora</ColNames>
+      <RefTableId>593150</RefTableId>
+      <RefColPositions>3</RefColPositions>
+      <RefTableName>controladora</RefTableName>
+      <RefKeyName>primarykey_equipamento_controladora</RefKeyName>
+      <RefColNames>num</RefColNames>
+      <OnDelete>cascade</OnDelete>
+      <OnUpdate>cascade</OnUpdate>
+    </foreign-key>
+    <column id="110" parent="64" name="lista">
+      <Position>1</Position>
+      <DataType>json|0s</DataType>
+      <StateNumber>21759172</StateNumber>
+    </column>
+    <column id="111" parent="65" name="filedate">
+      <Position>1</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="112" parent="65" name="num">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="113" parent="65" name="bloco">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="114" parent="65" name="unidade">
+      <Position>4</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="115" parent="65" name="autenticacao">
+      <Position>5</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="116" parent="65" name="primeiro_nome">
+      <Position>6</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="117" parent="65" name="foto1">
+      <Position>7</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="118" parent="65" name="nascimento">
+      <Position>8</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="119" parent="65" name="idade">
+      <Position>9</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="120" parent="65" name="parentesco">
+      <Position>10</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="121" parent="65" name="genero">
+      <Position>11</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759173</StateNumber>
+    </column>
+    <column id="122" parent="66" name="id">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="123" parent="66" name="bloco">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="124" parent="66" name="unidade">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="125" parent="66" name="autenticacao">
+      <Position>4</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="126" parent="66" name="nome">
+      <Position>5</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="127" parent="66" name="foto">
+      <Position>6</Position>
+      <DataType>varchar|0s</DataType>
+      <StateNumber>21759174</StateNumber>
+    </column>
+    <column id="128" parent="67" name="autenticacao">
+      <Position>1</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <column id="129" parent="67" name="bloco">
+      <Position>2</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <column id="130" parent="67" name="unidade">
+      <Position>3</Position>
+      <DataType>integer|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <column id="131" parent="67" name="modelo">
+      <Position>4</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <column id="132" parent="67" name="placa">
+      <Position>5</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <column id="133" parent="67" name="cor">
+      <Position>6</Position>
+      <DataType>text|0s</DataType>
+      <StateNumber>21759175</StateNumber>
+    </column>
+    <argument id="134" parent="68" name="info">
+      <Position>1</Position>
+      <DataType>json|0s</DataType>
+    </argument>
+    <argument id="135" parent="68">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>varchar|0s</DataType>
+    </argument>
+    <argument id="136" parent="69" name="info">
+      <Position>1</Position>
+      <DataType>json|0s</DataType>
+    </argument>
+    <argument id="137" parent="69">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>varchar|0s</DataType>
+    </argument>
+    <argument id="138" parent="70">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>setof() record|0s</DataType>
+    </argument>
+    <argument id="139" parent="71" name="numcontroladora">
+      <Position>1</Position>
+      <DataType>integer|0s</DataType>
+    </argument>
+    <argument id="140" parent="71">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>setof() json|0s</DataType>
+    </argument>
+    <argument id="141" parent="72" name="info">
+      <Position>1</Position>
+      <DataType>json|0s</DataType>
+    </argument>
+    <argument id="142" parent="72">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>setof() json|0s</DataType>
+    </argument>
+    <argument id="143" parent="73">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>varchar|0s</DataType>
+    </argument>
+    <argument id="144" parent="74">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>varchar|0s</DataType>
+    </argument>
+    <argument id="145" parent="75">
+      <ArgumentDirection>R</ArgumentDirection>
+      <DataType>setof() record|0s</DataType>
+    </argument>
+  </database-model>
+</dataSource>

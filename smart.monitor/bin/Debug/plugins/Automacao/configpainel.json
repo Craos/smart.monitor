@@ -1,0 +1,181 @@
+﻿[
+  {
+    "Id": 0,
+    "Titulo": "Academia",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Portão de acessibilidade do cadeirante",
+        "Controles": [
+          {
+            "Id": 0,
+            "Titulo": "Abrir porta",
+            "Acao": 1,
+            "Comando": "http://192.168.11.64/?r=5",
+			"Registro": "http://192.168.0.180/ws/?cn=as&c=316"
+          }
+        ],
+        "MonitorRede": true,
+        "Endereco": "192.168.11.64"
+      }
+    ],
+    "UserLocation": "{X=1,Y=231}",
+    "UserSize": "{Width=230, Height=170}",
+    "UserVisible": true
+  },
+  {
+    "Id": 1,
+    "Titulo": "Piscina aquecida",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Portão de acessibilidade do cadeirante",
+        "Controles": [
+          {
+            "Id": 0,
+            "Titulo": "Abrir porta",
+            "Acao": 1,
+            "Comando": "http://192.168.11.65/?r=5",
+			"Registro": "http://192.168.0.180/ws/?cn=as&c=316"
+          }
+        ],
+        "MonitorRede": true,
+        "Endereco": "192.168.11.64"
+      }
+    ],
+    "UserLocation": "{X=231,Y=231}",
+    "UserSize": "{Width=230, Height=170}",
+    "UserVisible": true
+  },
+  {
+    "Id": 2,
+    "Titulo": "Sala da Craos",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Servidor banco de dados",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.180"
+      },
+      {
+        "Id": 1,
+        "Titulo": "Servidor backup",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.253"
+      }
+    ],
+    "UserLocation": "{X=460,Y=231}",
+    "UserSize": "{Width=230, Height=111}",
+    "UserVisible": true
+  },
+  {
+    "Id": 3,
+    "Titulo": "P1",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Desktop",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.40"
+      },
+      {
+        "Id": 1,
+        "Titulo": "Controladora LinearHCS",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.20"
+      }
+    ],
+    "UserLocation": "{X=1,Y=1}",
+    "UserSize": "{Width=230, Height=60}",
+    "UserVisible": true
+  },
+  {
+    "Id": 4,
+    "Titulo": "P2",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Desktop",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.41"
+      },
+      {
+        "Id": 1,
+        "Titulo": "Totem Visitante",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.67"
+      }
+    ],
+    "UserLocation": "{X=231,Y=1}",
+    "UserSize": "{Width=230, Height=114}",
+    "UserVisible": true
+  },
+  {
+    "Id": 5,
+    "Titulo": "P3",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Desktop",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.42"
+      },
+      {
+        "Id": 1,
+        "Titulo": "Controladora LinearHCS",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.21"
+      }
+    ],
+    "UserLocation": "{X=459,Y=1}",
+    "UserSize": "{Width=230, Height=114}",
+    "UserVisible": true
+  },
+  {
+    "Id": 6,
+    "Titulo": "P4",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Desktop",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.43"
+      }
+    ],
+    "UserLocation": "{X=689,Y=1}",
+    "UserSize": "{Width=230, Height=114}",
+    "UserVisible": true
+  },
+  {
+    "Id": 7,
+    "Titulo": "P5",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Desktop",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.40"
+      },
+      {
+        "Id": 1,
+        "Titulo": "Controladora LinearHCS",
+        "Controles": [],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.23"
+      }
+    ],
+    "UserLocation": "{X=918,Y=1}",
+    "UserSize": "{Width=230, Height=114}",
+    "UserVisible": true
+  }
+]

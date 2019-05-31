@@ -1,0 +1,223 @@
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.config
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.config
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.dll
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+C:\Projetos\PROJETOS PC\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\bin\Release\Conexão TCP.exe.config
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.001z\Conexão TCP  v1.001z\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\Conexão TCP.exe.config
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\Conexão TCP\obj\x86\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\Conexão TCP.exe.config
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\Conexão TCP\obj\x86\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\Conexão TCP.exe.config
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\Conexão TCP\obj\x86\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.exe.config
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.application
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.exe
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\bin\Release\Conexão TCP.exe.config
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\Conexão TCP.exe.config
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\bin\Release\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\Conexão TCP\obj\x86\Release\Conexão TCP.application
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.config
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.application
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.pdb
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.dll
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.pdb
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.application
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.config
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.application
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.exe
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\Conexão TCP.pdb
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.dll
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\bin\Release\controladoraLinear2.pdb
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.application
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\Conexão TCP.exe.config
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\bin\Release\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002N\Conexão TCP\obj\x86\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\Conexão TCP.exe.config
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\Conexão TCP.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\UNIONCOMM.SDK.UCBioBSP.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\bin\Release\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.Sniffer.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\WindowsFormsApplication1.TecladoSenha.resources
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.csproj.GenerateResource.Cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.exe.manifest
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\Conexão TCP\obj\x86\Release\Conexão TCP.application
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\Conexão TCP\bin\Release\Conexão TCP.exe.config
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\Conexão TCP\obj\x86\Release\Conexão TCP.exe
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\Conexão TCP\obj\x86\Release\Conexão TCP.pdb

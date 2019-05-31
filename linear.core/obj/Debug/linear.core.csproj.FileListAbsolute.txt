@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\bin\Debug\linear.core.dll
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\bin\Debug\linear.core.pdb
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\bin\Debug\controladoraLinear2.dll
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\bin\Debug\controladoraLinear2.pdb
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\obj\Debug\linear.core.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\obj\Debug\linear.core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\obj\Debug\linear.core.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\obj\Debug\linear.core.dll
+C:\Users\Administrator\Desktop\Linear\Conexão TCP  v1.002q\linear.core\obj\Debug\linear.core.pdb
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\bin\Debug\linear.core.dll
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\bin\Debug\linear.core.pdb
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\bin\Debug\AmRoNetworkMonitor.dll
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\obj\Debug\linear.core.csprojAssemblyReference.cache
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\obj\Debug\linear.core.csproj.CoreCompileInputs.cache
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\obj\Debug\linear.core.csproj.CopyComplete
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\obj\Debug\linear.core.dll
+C:\Users\oberd\Source\Repos\smart.monitor\linear.core\obj\Debug\linear.core.pdb

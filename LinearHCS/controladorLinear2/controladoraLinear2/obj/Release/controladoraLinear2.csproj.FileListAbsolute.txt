@@ -1,0 +1,5 @@
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Release\controladoraLinear2.dll
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Release\controladoraLinear2.pdb
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Release\controladoraLinear2.dll
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Release\controladoraLinear2.pdb

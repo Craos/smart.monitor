@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MessageSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">695</Value>
+    </Setting>
+    <Setting Name="DataHoraSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">288</Value>
+    </Setting>
+    <Setting Name="EndPointSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">172</Value>
+    </Setting>
+    <Setting Name="IDsize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">101</Value>
+    </Setting>
+    <Setting Name="end_size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="ip_size" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="MACSIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">116</Value>
+    </Setting>
+    <Setting Name="HOSTSIZE" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">112</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

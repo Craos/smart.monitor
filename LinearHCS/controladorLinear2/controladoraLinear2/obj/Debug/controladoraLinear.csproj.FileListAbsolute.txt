@@ -1,0 +1,71 @@
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+D:\Projetos\SOFTWARES PC\CONEXÃO TCP\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+D:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+D:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+D:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+D:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+C:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+C:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+C:\Projetos\PROJETOS PC\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002b\Conexão TCP  v1.002a\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002c\Conexão TCP  v1.002c\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+D:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002d\Conexão TCP  v1.002d\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002e\Conexão TCP  v1.002e\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002g\Conexão TCP  v1.002g\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002g\Conexão TCP  v1.002g\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002g\Conexão TCP  v1.002g\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002g\Conexão TCP  v1.002g\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002g\Conexão TCP  v1.002g\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002h\Conexão TCP  v1.002h\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+H:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+C:\Projetos\PROJETOS VISUAL STUDIO\Conexão TCP  VXXXX\Conexão TCP\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002O\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojResolveAssemblyReference.cache
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+E:\Projetos\Placa Catraca\Conexão TCP (CÓDIGO FONTE)\Conexão TCP  v1.002p\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.dll
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\bin\Debug\controladoraLinear2.pdb
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csprojAssemblyReference.cache
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear.csproj.CoreCompileInputs.cache
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.dll
+C:\Users\oberd\source\repos\smart.monitor\LinearHCS\controladorLinear2\controladoraLinear2\obj\Debug\controladoraLinear2.pdb

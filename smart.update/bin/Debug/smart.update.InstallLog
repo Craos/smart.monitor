@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.InstallLog
+   assemblypath = C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.exe
+Instalando o serviço SmartUpdate...
+Serviço SmartUpdate foi instalado com êxito.
+Criando a origem de EventLog SmartUpdate no log Application...
+Confirmando o assembly 'C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.InstallLog
+   assemblypath = C:\Users\oberd\source\repos\smart.monitor\smart.update\bin\Debug\smart.update.exe

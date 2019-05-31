@@ -1,0 +1,12 @@
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\CraosPWMSerial\LibUsbDotNet.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\CraosPWMSerial\smart.craospwm.serial.dll.config
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\CraosPWMSerial\smart.craospwm.serial.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\CraosPWMSerial\smart.craospwm.serial.pdb
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.csprojAssemblyReference.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.Configuracoes.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.Properties.Resources.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.csproj.GenerateResource.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.csproj.CopyComplete
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.craospwm.serial\obj\Debug\smart.craospwm.serial.pdb

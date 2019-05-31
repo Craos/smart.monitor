@@ -1,0 +1,15 @@
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\LinearHCS\LibUsbDotNet.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\LinearHCS\LinearHCS.dll.config
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\LinearHCS\LinearHCS.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\smart.monitor\bin\Debug\plugins\LinearHCS\LinearHCS.pdb
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\smart.linearhcs.csprojAssemblyReference.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.Configuracoes.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.ControleLinearHCS.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.Properties.Resources.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.Sniffer.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.TecladoSenha.resources
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\smart.linearhcs.csproj.GenerateResource.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\smart.linearhcs.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\smart.linearhcs.csproj.CopyComplete
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.dll
+C:\Users\Administrador.WIN-S7ICKUPKCFE\Source\Repos\smart.monitor\LinearHCS\painellinear\obj\Debug\LinearHCS.pdb

@@ -1,0 +1,135 @@
+﻿Build1=Default,B4RDev
+Group=Default Group
+Library1=rcore
+NumberOfFiles=0
+NumberOfLibraries=1
+NumberOfModules=0
+Version=2.51
+@EndOfDesignText@
+
+
+#include <SPI.h>
+#include <EtherCard.h>
+#include <Wiegand.h>
+
+/*
+   Rede
+   177.8.163.94
+*/
+static byte _macAddress[] = { 0x00, 0xAD, 0xBE, 0xEF, 0xFE, 0x15 };
+static byte _currentIP[] = { 192, 168, 0, 63 };
+static byte _gateWay[] = { 177, 8, 163, 94 };
+static byte hisip[] = { 177, 8, 163, 94 };
+const char website[] PROGMEM = "177.8.163.94";
+String _equipamento = "&eq=2499";
+byte Ethernet::buffer[500];
+int comando = 0;
+static BufferFiller bfill;  // used As cursor While filling the buffer
+
+const char page[] PROGMEM =
+"HTTP/1.0 200 OK\r\n"
+"Content-Type: text/html\r\n"
+"Retry-After: 600\r\n";
+
+
+/*
+   RFID e Rele
+*/
+WIEGAND leitorWiegand;
+const int acionaRele = 6;
+
+/*
+   Inicia o sistema
+*/
+void setup() {
+
+  Serial.begin(9600);
+  ether.begin(SizeOf Ethernet::buffer, _macAddress);
+  ether.staticSetup(_currentIP, _gateWay);
+  ether.copyIp(ether.hisip, hisip);
+  ether.printIp("Servidor: ", ether.hisip);
+  leitorWiegand.begin();
+  pinMode(acionaRele, OUTPUT);
+
+}
+
+/*
+   Leitura dos processos
+*/
+void Loop() {
+
+  // Faz a leitura dos pacotes de rede
+  word len = ether.packetReceive();
+  word pos = ether.packetLoop(len);
+
+  // Verifica se recebeu um pacote tcp válido
+  If (pos) {
+    bfill = ether.tcpOffset();
+    char* data = (char *) Ethernet::buffer + pos;
+    AvaliaURL(data);
+  }
+
+
+  // Faz a leitura Do codigo RFID
+  If (leitorWiegand.available()) {
+
+    String codigo = String(leitorWiegand.getCode(), HEX);
+    Serial.println(codigo);
+
+    If (Serial.available() == 0) {
+      If (codigo.length() >= 5) {
+        post(codigo + _equipamento);
+      }
+    }
+  }
+
+  // Escuta a comunicação serial para acionar rele
+  If (Serial.available() > 0) {
+    comando = Serial.read();
+    If (comando == 49) {
+      AcionaRele();
+    }
+  }
+}
+
+/*
+   Envia a informacao Do cartao para o servidor web
+*/
+static void post (String cartao) {
+  char cd[23];
+  cartao.toCharArray(cd, 23);
+  const char *codigo = cd;
+  ether.browseUrl(PSTR("/ws/?c=312&cn=as&li=1&rfid="), codigo, website, callback); // @suppress("Invalid arguments")
+}
+
+/*
+   Recebe As informacoes Do servidor web
+*/
+static void callback (byte status, word off, word len) {
+
+  Ethernet::buffer[off + 300] = 0;
+  const char *buf = (const char*) Ethernet::buffer + off;
+  String resultado = buf;
+  Serial.print("*");
+  Serial.println(resultado);
+  Serial.print("*");
+  If (resultado.indexOf("|") > -1) {
+    Serial.println(resultado);
+    AcionaRele();
+  }
+}
+
+static void AvaliaURL(char* data ) {
+  String resultado = data;
+  If (resultado.indexOf("r=1") > -1) {
+    AcionaRele();
+  }
+  memcpy_P(ether.tcpOffset(), page, SizeOf page);
+  ether.httpServerReply(SizeOf page - 1);  
+}
+
+static void AcionaRele() {
+  digitalWrite(acionaRele, HIGH);
+  Delay(500);
+  digitalWrite(acionaRele, LOW);
+}

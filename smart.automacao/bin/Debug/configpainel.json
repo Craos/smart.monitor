@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Id": 0,
+    "Titulo": "Academia",
+    "Equipamentos": [
+      {
+        "Id": 0,
+        "Titulo": "Portão de acessibilidade do cadeirante",
+        "Controles": [
+          {
+            "Id": 0,
+            "Titulo": "Teste rele 6",
+            "Acao": 1,
+            "Comando": "http://192.168.0.63/?r=6"
+          },
+          {
+            "Id": 1,
+            "Titulo": "Teste rele 5",
+            "Acao": 1,
+            "Comando": "http://192.168.0.63/?r=5"
+          },
+          {
+            "Id": 2,
+            "Titulo": "Teste dois rele",
+            "Acao": 1,
+            "Comando": "http://192.168.0.63/?r=3"
+          }
+        ],
+        "MonitorRede": true,
+        "Endereco": "192.168.0.63"
+      }
+    ],
+    "UserLocation": "{X=142,Y=57}",
+    "UserSize": "{Width=295, Height=204}",
+    "UserVisible": true
+  }
+]

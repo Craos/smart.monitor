@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="smart.update.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConexaoLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Host=localhost;Username=postgres;Password=yu45thn@;Database=smart</Value>
+    </Setting>
+    <Setting Name="ConexaoRemota" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hostaddr=127.0.0.1 port=5433 dbname=smt user=postgres password=yu45thn@</Value>
+    </Setting>
+    <Setting Name="MoradoresLimiteDownload" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="ExecutarAtualizacaoAoIniciar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MoradoresProcedimentoDownload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">atualizarcadastros_moradores</Value>
+    </Setting>
+    <Setting Name="VeiculosLimiteDownload" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="VeiculosProcedimentoDownload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">atualizarcadastros_veiculos</Value>
+    </Setting>
+    <Setting Name="MoradoresIntervaloDownload" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="VeiculosIntervaloDownload" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="UploadIntervalo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="UploadProcedimento" Type="System.String" Scope="User">
+      <Value Profile="(Default)">atualizarpassagens</Value>
+    </Setting>
+    <Setting Name="UploadLimiteTransferencia" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

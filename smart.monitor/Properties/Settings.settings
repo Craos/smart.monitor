@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="smart.monitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PontodeAtendimento" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="Webservice" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://anima.craos.net</Value>
+    </Setting>
+    <Setting Name="WebserviceListaControladoras" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/ws/?cn=as&amp;c=304</Value>
+    </Setting>
+    <Setting Name="WebservicePort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="AbrirMonitordePedestre" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AbrirMonitordeVeiculos" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DescricaoControladoraSelecionada" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Nenhuma controladora selecionada</Value>
+    </Setting>
+    <Setting Name="idControladoraSelecionada" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="IniciarConexaoAutomaticamente" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PesquisarRegistrosnaBaseLocal" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ConexaoLocalHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Host=localhost;Username=postgres;Password=yu45thn@;Database=smart</Value>
+    </Setting>
+    <Setting Name="ConexaoLocalPorta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5432</Value>
+    </Setting>
+    <Setting Name="AbrirMonitordeOperacoes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExigirAutenticacaoAntesdeIniciar" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OrigemLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://anima.craos.net/smart.auth/auth.html?system=smart.ctrl</Value>
+    </Setting>
+    <Setting Name="AbrirPaineldeControleAutomaticos" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Aparencia" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="MDIUserWindowsState" Type="System.Windows.Forms.FormWindowState" Scope="User">
+      <Value Profile="(Default)">Normal</Value>
+    </Setting>
+    <Setting Name="UserWindowStartPosition" Type="System.Windows.Forms.FormStartPosition" Scope="User">
+      <Value Profile="(Default)">Manual</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

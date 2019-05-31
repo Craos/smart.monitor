@@ -1,0 +1,532 @@
+{
+  "Contagem": 3,
+  "Itens": [
+    {
+      "filedate": "2017-03-11T07:20:41.357402",
+      "condominio": 1,
+      "num": 3,
+      "descricao": "P5",
+      "tipo_conexao": "TCP",
+      "endereco": "192.168.0.23",
+      "porta": 9763,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "LinearHCS",
+      "leitores": [
+        {
+          "filedate": "2017-03-11T08:02:18.284545",
+          "num": 11,
+          "controladora": 3,
+          "descricao": "Autorização do porteiro (Chaveirinho)",
+          "porta": 4,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2017-03-11T08:00:29.010849",
+          "num": 8,
+          "controladora": 3,
+          "descricao": "Veículos Saída",
+          "porta": 1,
+          "procedimento": "equipamento.analise_tag",
+          "tipo": "veicular",
+          "sentido": "",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2017-03-11T08:02:18.284545",
+          "num": 10,
+          "controladora": 3,
+          "descricao": "Pedestres Direita (Saída)",
+          "porta": 3,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2017-03-11T08:02:18.284545",
+          "num": 9,
+          "controladora": 3,
+          "descricao": "Pedestres na esquerda (Entrada)",
+          "porta": 2,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 4,
+  "Itens": [
+    {
+      "filedate": "2017-09-03T09:04:09.019877",
+      "condominio": 1,
+      "num": 4,
+      "descricao": "Parque Aquático",
+      "tipo_conexao": "TCP",
+      "endereco": "192.168.0.22",
+      "porta": 9763,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "LinearHCS",
+      "leitores": [
+        {
+          "filedate": "2017-09-15T09:39:42.225825",
+          "num": 13,
+          "controladora": 4,
+          "descricao": "Catraca",
+          "porta": 1,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2017-09-15T09:40:34.444653",
+              "num": 2,
+              "controladora": 4,
+              "leitor": 13,
+              "descricao": "Giro da catraca",
+              "endereco": 1,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2018-03-05T17:26:01.506697",
+          "num": 16,
+          "controladora": 4,
+          "descricao": "Catraca c",
+          "porta": 4,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2018-03-05T17:26:01.506697",
+          "num": 15,
+          "controladora": 4,
+          "descricao": "Catraca b",
+          "porta": 3,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2018-03-05T17:26:01.506697",
+          "num": 14,
+          "controladora": 4,
+          "descricao": "Catraca a",
+          "porta": 2,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 7,
+  "Itens": [
+    {
+      "filedate": "2018-03-21T14:12:12.348729",
+      "condominio": 1,
+      "num": 7,
+      "descricao": "Recepção",
+      "tipo_conexao": "TCP",
+      "endereco": "127.0.0.1",
+      "porta": 0,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "Craos",
+      "leitores": [
+        {
+          "filedate": "2018-03-21T14:13:00.064221",
+          "num": 18,
+          "controladora": 7,
+          "descricao": "Leitor Igor",
+          "porta": 1,
+          "procedimento": null,
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2018-03-21T14:13:25.888359",
+          "num": 19,
+          "controladora": 7,
+          "descricao": "Leitor Kelly",
+          "porta": 1,
+          "procedimento": null,
+          "tipo": "pessoal",
+          "sentido": " ",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 6,
+  "Itens": [
+    {
+      "filedate": "2018-03-20T12:18:05.447784",
+      "condominio": 1,
+      "num": 6,
+      "descricao": "Correios",
+      "tipo_conexao": "TCP",
+      "endereco": "127.0.0.1",
+      "porta": 0,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "Craos",
+      "leitores": [
+        {
+          "filedate": "2018-03-20T12:19:00.803775",
+          "num": 17,
+          "controladora": 6,
+          "descricao": "Leitor de mesa",
+          "porta": 1,
+          "procedimento": null,
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 1,
+  "Itens": [
+    {
+      "filedate": "2017-03-06T15:13:57.455947",
+      "condominio": 1,
+      "num": 1,
+      "descricao": "P1",
+      "tipo_conexao": "TCP",
+      "endereco": "192.168.0.20",
+      "porta": 9762,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "LinearHCS",
+      "leitores": [
+        {
+          "filedate": "2017-03-06T15:16:51.263858",
+          "num": 2,
+          "controladora": 1,
+          "descricao": "Veículos",
+          "porta": 4,
+          "procedimento": "equipamento.analise_tag",
+          "tipo": "veicular",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2019-01-31T20:08:05.926587",
+          "num": 9,
+          "controladora": 1,
+          "descricao": "Veiculos",
+          "porta": 1,
+          "procedimento": "equipamento.analise_tag",
+          "tipo": "veicular",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2017-03-06T15:17:40.854347",
+          "num": 4,
+          "controladora": 1,
+          "descricao": "S1",
+          "porta": 3,
+          "procedimento": "/ws/?cn=as&c=308",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": 18,
+          "acionadores": [
+            null
+          ]
+        },
+        {
+          "filedate": "2017-03-06T15:17:40.854347",
+          "num": 3,
+          "controladora": 1,
+          "descricao": "S2",
+          "porta": 2,
+          "procedimento": "/ws/?cn=as&c=308",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": 18,
+          "acionadores": [
+            null
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 2,
+  "Itens": [
+    {
+      "filedate": "2017-03-11T07:08:51.44455",
+      "condominio": 1,
+      "num": 2,
+      "descricao": "P3",
+      "tipo_conexao": "TCP",
+      "endereco": "127.0.0.1",
+      "porta": 9762,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "LinearHCS",
+      "leitores": [
+        {
+          "filedate": "2017-03-11T07:11:02.680445",
+          "num": 5,
+          "controladora": 2,
+          "descricao": "S2",
+          "porta": 2,
+          "procedimento": "/ws/?cn=as&c=308",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": 18,
+          "acionadores": [
+            {
+              "filedate": "2018-03-10T06:36:45.97762",
+              "num": 4,
+              "controladora": 2,
+              "leitor": 5,
+              "descricao": "Entrada e saída S2",
+              "endereco": 1,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2017-03-11T07:11:02.680445",
+          "num": 7,
+          "controladora": 2,
+          "descricao": "Veículos",
+          "porta": 1,
+          "procedimento": "/ws/?cn=as&c=308",
+          "tipo": "veicular",
+          "sentido": "S",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2018-03-10T06:38:57.283222",
+              "num": 5,
+              "controladora": 2,
+              "leitor": 7,
+              "descricao": "Cancela de saída",
+              "endereco": 3,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2017-03-11T07:11:02.680445",
+          "num": 6,
+          "controladora": 2,
+          "descricao": "S1",
+          "porta": 3,
+          "procedimento": "/ws/?cn=as&c=308",
+          "tipo": "pessoal",
+          "sentido": "",
+          "idade_minima": 18,
+          "acionadores": [
+            {
+              "filedate": "2018-03-10T06:35:24.851716",
+              "num": 3,
+              "controladora": 2,
+              "leitor": 6,
+              "descricao": "Entrada e saída S1",
+              "endereco": 2,
+              "tipo": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 5,
+  "Itens": [
+    {
+      "filedate": "2017-09-13T15:02:06.997225",
+      "condominio": 1,
+      "num": 5,
+      "descricao": "CraosPWM",
+      "tipo_conexao": "Serial",
+      "endereco": "102.168.0.63",
+      "porta": 0,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "Craos",
+      "leitores": [
+        {
+          "filedate": "2017-09-14T15:42:33.323952",
+          "num": 12,
+          "controladora": 5,
+          "descricao": "Teclado",
+          "porta": 2,
+          "procedimento": "equipamento.analise_rfid",
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2017-09-14T15:58:22.240074",
+              "num": 1,
+              "controladora": 5,
+              "leitor": 12,
+              "descricao": "Teclado",
+              "endereco": 0,
+              "tipo": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Contagem": 8,
+  "Itens": [
+    {
+      "filedate": "2019-02-09T12:38:23.493655",
+      "condominio": 1,
+      "num": 8,
+      "descricao": "CraosLinear",
+      "tipo_conexao": "Serial",
+      "endereco": "127.0.0.1",
+      "porta": 0,
+      "habilitado": 1,
+      "tempo_reconexao": 999,
+      "fabricante": "LinearHCS",
+      "leitores": [
+        {
+          "filedate": "2019-02-09T12:48:17.10245",
+          "num": 4,
+          "controladora": 8,
+          "descricao": "Porta4",
+          "porta": 4,
+          "procedimento": null,
+          "tipo": "veicular",
+          "sentido": "S",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2019-02-09T12:52:21.363201",
+              "num": 11,
+              "controladora": 8,
+              "leitor": 4,
+              "descricao": "Saida",
+              "endereco": 4,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2019-02-09T12:46:51.873973",
+          "num": 1,
+          "controladora": 8,
+          "descricao": "Porta1",
+          "porta": 1,
+          "procedimento": null,
+          "tipo": "pessoal",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2019-02-09T12:51:15.191828",
+              "num": 8,
+              "controladora": 8,
+              "leitor": 1,
+              "descricao": "Entrada",
+              "endereco": 1,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2019-02-09T12:47:56.970835",
+          "num": 3,
+          "controladora": 8,
+          "descricao": "Porta3",
+          "porta": 3,
+          "procedimento": null,
+          "tipo": "veicular",
+          "sentido": "E",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2019-02-09T12:52:04.819147",
+              "num": 10,
+              "controladora": 8,
+              "leitor": 3,
+              "descricao": "Entrada",
+              "endereco": 3,
+              "tipo": 0
+            }
+          ]
+        },
+        {
+          "filedate": "2019-02-09T12:47:32.877841",
+          "num": 2,
+          "controladora": 8,
+          "descricao": "Porta2",
+          "porta": 2,
+          "procedimento": null,
+          "tipo": "pessoal",
+          "sentido": "S",
+          "idade_minima": null,
+          "acionadores": [
+            {
+              "filedate": "2019-02-09T12:51:44.00775",
+              "num": 9,
+              "controladora": 8,
+              "leitor": 2,
+              "descricao": "Saida",
+              "endereco": 2,
+              "tipo": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
